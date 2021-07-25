@@ -1,11 +1,8 @@
 import React from 'react'
+import Layout from 'components/layouts/Layout'
 
 const App = () => {
-  return (
-    <div>
-      Sunnyside agency
-    </div>
-  )
+  return <Layout></Layout>
 }
 
 export default App
