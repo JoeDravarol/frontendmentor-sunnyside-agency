@@ -5,8 +5,6 @@ import Box from '@material-ui/core/Box'
 
 import Nav from 'components/Nav'
 
-import hero from 'images/desktop/image-header.jpg'
-
 const theme = createTheme({
   palette: {
     text: {
