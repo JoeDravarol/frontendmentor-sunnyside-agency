@@ -14,11 +14,17 @@ const theme = createTheme({
       primary: 'hsl(0, 0%, 100%)',
       secondary: 'hsl(51, 100%, 49%)',
       hover: 'rgba(255, 255, 255, 0.2)'
+    },
+    neutral: {
+      veryDarkDesaturatedBlue: 'hsl(212, 27%, 19%)',
+      veryDarkGrayishBlue: 'hsl(213, 9%, 39%)',
+      darkGrayishBlue: 'hsl(232, 10%, 55%)',
+      grayishBlue: 'hsl(210, 4%, 67%)'
     }
   },
   typography: {
     fontFamily: 'Barlow',
-    fontFamilyFraunces: 'Fraunces',
+    fontFamilyFraunces: 'Fraunces'
   }
 })
 
@@ -40,7 +46,7 @@ const Layout = ({ children }) => {
     {
       label: 'Projects',
       href: '#'
-    },
+    }
   ]
 
   return (
