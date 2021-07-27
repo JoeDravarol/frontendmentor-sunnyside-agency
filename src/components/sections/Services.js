@@ -103,10 +103,10 @@ const useStyles = makeStyles((theme) => ({
     opacity: '0.85'
   },
   graphicContent: {
-    color: 'hsl(167, 40%, 24%)'
+    color: theme.palette.graphicText
   },
   photographyContent: {
-    color: 'hsl(198, 62%, 26%)'
+    color: theme.palette.photographyText
   }
 }))
 

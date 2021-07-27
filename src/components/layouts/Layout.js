@@ -21,6 +21,8 @@ const theme = createTheme({
       darkGrayishBlue: 'hsl(232, 10%, 55%)',
       grayishBlue: 'hsl(210, 4%, 67%)'
     },
+    graphicText: 'hsl(167, 40%, 24%)',
+    photographyText: 'hsl(198, 62%, 26%)',
     footer: {
       background: '#90d4c5',
       icon: 'hsl(167, 40%, 24%)',
@@ -30,7 +32,8 @@ const theme = createTheme({
   typography: {
     fontFamily: 'Barlow',
     fontFamilyFraunces: 'Fraunces'
-  }
+  },
+  navHeight: 100
 })
 
 const styles = {

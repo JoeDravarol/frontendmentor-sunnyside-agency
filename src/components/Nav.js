@@ -16,7 +16,7 @@ import { useWindowSize } from 'hooks'
 
 const useStyles = makeStyles((theme) => ({
   appbar: {
-    height: 100,
+    height: theme.navHeight,
     justifyContent: 'center',
   },
   toolbar: {
@@ -69,7 +69,7 @@ const useStyles = makeStyles((theme) => ({
   },
   paperProps: {
     overflow: 'visible',
-    marginTop: 100,
+    marginTop: theme.navHeight,
     width: '100%',
     display: 'flex',
     justifyContent: 'center',
