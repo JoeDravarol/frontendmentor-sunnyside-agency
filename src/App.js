@@ -4,6 +4,7 @@ import Layout from 'components/layouts/Layout'
 import Hero from 'components/sections/Hero'
 import Services from 'components/sections/Services'
 import Testimonials from 'components/sections/Testimonials'
+import Gallery from 'components/sections/Gallery'
 
 import emilyAvatar from 'images/image-emily.jpg'
 import thomasAvatar from 'images/image-thomas.jpg'
@@ -39,6 +40,7 @@ const App = () => {
       <Hero />
       <Services />
       <Testimonials data={testimonialsData} />
+      <Gallery />
     </Layout>
   )
 }
