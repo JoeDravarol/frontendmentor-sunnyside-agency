@@ -20,6 +20,11 @@ const theme = createTheme({
       veryDarkGrayishBlue: 'hsl(213, 9%, 39%)',
       darkGrayishBlue: 'hsl(232, 10%, 55%)',
       grayishBlue: 'hsl(210, 4%, 67%)'
+    },
+    footer: {
+      background: '#90d4c5',
+      icon: 'hsl(167, 40%, 24%)',
+      text: 'hsl(168, 34%, 41%)'
     }
   },
   typography: {
@@ -53,9 +58,7 @@ const Layout = ({ children }) => {
     <ThemeProvider theme={theme}>
       <CssBaseline />
       <Nav headersData={headersData} />
-      <Box style={styles}>
-        {children}
-      </Box>
+      <Box style={styles}>{children}</Box>
     </ThemeProvider>
   )
 }
