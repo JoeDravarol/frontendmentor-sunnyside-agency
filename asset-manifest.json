@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/frontendmentor-sunnyside-agency/static/js/main.f3794886.chunk.js",
+    "main.js.map": "/frontendmentor-sunnyside-agency/static/js/main.f3794886.chunk.js.map",
+    "runtime-main.js": "/frontendmentor-sunnyside-agency/static/js/runtime-main.4eb927b2.js",
+    "runtime-main.js.map": "/frontendmentor-sunnyside-agency/static/js/runtime-main.4eb927b2.js.map",
+    "static/js/2.539d8383.chunk.js": "/frontendmentor-sunnyside-agency/static/js/2.539d8383.chunk.js",
+    "static/js/2.539d8383.chunk.js.map": "/frontendmentor-sunnyside-agency/static/js/2.539d8383.chunk.js.map",
+    "index.html": "/frontendmentor-sunnyside-agency/index.html",
+    "static/js/2.539d8383.chunk.js.LICENSE.txt": "/frontendmentor-sunnyside-agency/static/js/2.539d8383.chunk.js.LICENSE.txt",
+    "static/media/icon-arrow-down.979ef07a.svg": "/frontendmentor-sunnyside-agency/static/media/icon-arrow-down.979ef07a.svg",
+    "static/media/image-gallery-cone.461ff421.jpg": "/frontendmentor-sunnyside-agency/static/media/image-gallery-cone.461ff421.jpg",
+    "static/media/image-gallery-cone.fb0906a7.jpg": "/frontendmentor-sunnyside-agency/static/media/image-gallery-cone.fb0906a7.jpg",
+    "static/media/image-gallery-milkbottles.df1d9d84.jpg": "/frontendmentor-sunnyside-agency/static/media/image-gallery-milkbottles.df1d9d84.jpg",
+    "static/media/image-gallery-orange.373d43f1.jpg": "/frontendmentor-sunnyside-agency/static/media/image-gallery-orange.373d43f1.jpg",
+    "static/media/image-gallery-orange.49f4212b.jpg": "/frontendmentor-sunnyside-agency/static/media/image-gallery-orange.49f4212b.jpg",
+    "static/media/image-gallery-sugar-cubes.fefc3841.jpg": "/frontendmentor-sunnyside-agency/static/media/image-gallery-sugar-cubes.fefc3841.jpg",
+    "static/media/image-gallery-sugarcubes.09b72f4f.jpg": "/frontendmentor-sunnyside-agency/static/media/image-gallery-sugarcubes.09b72f4f.jpg",
+    "static/media/image-graphic-design.09c20c2d.jpg": "/frontendmentor-sunnyside-agency/static/media/image-graphic-design.09c20c2d.jpg",
+    "static/media/image-graphic-design.7ac8bdf0.jpg": "/frontendmentor-sunnyside-agency/static/media/image-graphic-design.7ac8bdf0.jpg",
+    "static/media/image-header.49b52ffa.jpg": "/frontendmentor-sunnyside-agency/static/media/image-header.49b52ffa.jpg",
+    "static/media/image-header.9167cda0.jpg": "/frontendmentor-sunnyside-agency/static/media/image-header.9167cda0.jpg",
+    "static/media/image-photography.104cf40b.jpg": "/frontendmentor-sunnyside-agency/static/media/image-photography.104cf40b.jpg",
+    "static/media/image-photography.26df83b3.jpg": "/frontendmentor-sunnyside-agency/static/media/image-photography.26df83b3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4eb927b2.js",
+    "static/js/2.539d8383.chunk.js",
+    "static/js/main.f3794886.chunk.js"
+  ]
+}
